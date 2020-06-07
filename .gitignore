@@ -578,11 +578,6 @@ Session.vim
 [._]*.un~
 
 ### VisualStudioCode ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
@@ -985,3 +980,5 @@ healthchecksdb
 MigrationBackup/
 
 # End of https://www.gitignore.io/api/vim,tags,emacs,pycharm,eclipse,netbeans,webstorm,jetbrains,visualstudio,visualstudiocode
+temp_auto_push.bat
+temp_interactive_push.bat
